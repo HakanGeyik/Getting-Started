@@ -1,0 +1,21 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background-color: chocolate;
+
+.container{
+     width: 25%;
+     background-color: blue;
+     border: 3px solid black;
+     border-radius: 10px;
+     text-align: center;
+ }
+ 
+ #cookie_img{
+    width: 100%;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}}
